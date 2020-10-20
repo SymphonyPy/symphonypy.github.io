@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2020-1-24 00:00:00
 ---
 So this is gonna be the first post of my blog. Actually, I've set up a blog before, but I just wrote one post(or say, some sentences) because I was(or "am" or "will be") too lazy. 
 
